@@ -67,9 +67,7 @@ int main(void)
     /*
        Calcul de y :
        y = maximum - (maximum / MAX_LIGNES) * i
-
-       On utilise un float pour obtenir les valeurs
-       intermédiaires comme dans l'énoncé. */
+    */
 
 
     for (int i = 0; i < MAX_LIGNES; i++) {
